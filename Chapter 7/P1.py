@@ -4,6 +4,7 @@
 
 # for nmb in range(0,10000,nmb):
 #     print(nmb)
+#  Man not numbers just constants
 
 '''Second one'''
 nmb=int(input("Enter the number: "))
